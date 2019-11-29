@@ -1,2 +1,4 @@
 # Emotion-Classification-using-EEG
-This repository includes a Merged LSTM Model and the associated paper for emotion classification using for EEG Signals
+This repository includes a Merged LSTM Model and the associated paper for emotion classification using for EEG Signals.
+<br>
+In this paper we have proposed a novel methodology to classify emotions using contemporary digital signal processing techniques such as wavelet transform and statistical measures for feature extraction and dimensionality reduction. <br><br>Furthermore we developed a state of the art neural architecture for the classification task. <br><br>A merged LSTM model has been proposed for binary classification of emotions. The model’s applicability and accuracy has been validated using DEAP dataset which is the benchmark dataset for emotion recognition. Results on the dataset demonstrate the superiority of the proposed approach over existing state of the art methods.
